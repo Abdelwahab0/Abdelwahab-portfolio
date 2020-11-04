@@ -321,6 +321,9 @@ img{
     padding: 1rem;
     text-align: center;
 }
+.work__back-heading{
+    text-transform: uppercase;
+}
 
 .work__back-link{
     font-size: var(--normal-font-size);
